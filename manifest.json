@@ -1,0 +1,28 @@
+{
+  "name": "Chromebook/Tablet/Cell Phone Monitor",
+  "short_name": "Monitor",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/icon-128.png",
+      "type": "image/png","sizes": "128x128"
+    },
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png","sizes": "192x192"
+    },
+    {
+      "src": "/img/icon-256.png",
+      "type": "image/png","sizes": "256x256"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "type": "image/png","sizes": "512x512"
+    }
+    
+  ]
+}
